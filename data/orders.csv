@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,quantity,unit_price,status
+1001,C001,2026-09-01,Laptop Stand,1,49.99,completed
+1002,C002,2026-09-01,Wireless Mouse,2,24.50,completed
+1003,C003,2026-09-02,Mechanical Keyboard,1,89.00,completed
+1004,C001,2026-09-03,USB-C Hub,1,39.99,completed
+1005,C004,2026-09-03,Webcam,1,64.50,completed
+1006,C005,2026-09-04,Monitor Arm,2,79.00,completed
+1007,C006,2026-09-05,Desk Lamp,1,32.00,pending
+1008,C002,2026-09-06,USB-C Cable,3,12.99,completed
+1009,C007,2026-09-07,Headset,1,54.90,cancelled
+1010,C008,2026-09-08,Laptop Sleeve,1,27.50,completed

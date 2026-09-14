@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+.env
+*.duckdb
+checkpoints.sqlite*
+pipeline.log
+data/incidents/
+.langgraph_api/
+
+.vscode/
+.idea/
+.DS_Store
